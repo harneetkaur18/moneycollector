@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+    background-image:url("background.avif");
+}
+label,input{
+    margin-bottom:30px;
+    font-size:25px;
+    padding:6px;
+}
+h1{
+    background-image:url("background2.jpeg");
+}
+#allvalues,#maximum{
+    background-color:hotpink;
+    border:10px solid lightblue;
+    border-radius:30px;
+    margin:10px;
+}
+button{
+    background-color:lightpink;
+    font-size:30px;
+    margin:10px;
+}
